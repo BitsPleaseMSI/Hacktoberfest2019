@@ -21,6 +21,6 @@ Celebrate Open Source Contribution!
 Some Useful Links:
 
 * [**HacktoberFest Website**](https://hacktoberfest.digitalocean.com)
-* [**Details**] (https://hacktoberfest.digitalocean.com/details)
-* [**Git Website**] (https://git-scm.com/)
-* [**FAQs**] (https://hacktoberfest.digitalocean.com/faq)
+* [**Details**](https://hacktoberfest.digitalocean.com/details)
+* [**Git Website**](https://git-scm.com/)
+* [**FAQs**](https://hacktoberfest.digitalocean.com/faq)
