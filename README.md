@@ -11,7 +11,7 @@ What to do:
 1. Pick up any challenge
 2. Read the task and complete the code
 3. After completion create a PR on this repository
-4. We'll check your code is correct and is able to be merged.
+4. We'll check if your code is complete and correct, then we'll merge.
 5. Congrats! That's it.
 
 Celebrate Open Source Contribution!
