@@ -46,6 +46,30 @@ MEDIUM
 
 10. Program to check if entered number is an Armstrong Number. 
 
+11. Program to convert Decimal Number to Binary
+
+12. Program to convert a Binary Number to Decimal Number  
+
+13. Program to convert Decimal Number to Octal Number 
+
+14. Program to convert a Octal Number to Decimal Number  
+
+15. Program to convert a Hexadecimal Number to Decimal Number  
+
+16. Program to convert Decimal Number to Hexadecimal Number 
+
+17. Program to evaluate a POSTFIX expression using Stack 
+
+18. Program to convert an INFIX expression to POSTFIX using Stack 
+
+19. Program to implement QUEUE using Linked List   
+
+20. Program to implement PRIORITY QUEUE using Linked List   
+
+21. Program to implement NON-CIRCULAR QUEUE using Arrays  
+
+22. Program to implement DEQUE using Linked List
+
 PRACTITIONER
 
 1. Program to reverse a number. 
@@ -97,3 +121,25 @@ v)  55555
       -  Push an element in Stack  
       -  Pop an element from Stack  
       -  Display the elements in Stack
+
+HARD
+
+1. Program to Print the following Pattern 
+    555555555 
+    544444445 
+    543333345 
+    543222345 
+    543212345 
+    543222345 
+    543333345 
+    544444445 
+    555555555  
+ 
+2. Program to implement the concept of Sparse Matrix   
+
+3. Program to demonstrate the use of storage classes like static, register, etc 
+
+4.  Program to demonstrate the use to static variables and functions. 
+
+5. Program to demonstrate the concept of inheritance
+
