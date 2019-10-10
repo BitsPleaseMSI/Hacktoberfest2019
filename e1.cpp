@@ -7,8 +7,8 @@ main()
     cin>>a;
     if(a%2==0)
     {
-        cout<<"positive"
+        cout<<"Even"
     }
     else
-    cout<<"negative";
+    cout<<"Odd";
 }
