@@ -1,55 +1,76 @@
 EASY
 
 1. Write a code to find if the number is even or odd.
+
 2. Write a code to find if the number is positive or negative.
+
 3. Write a code to find if the number is present in the array or not.
+
 4. Write a code to display a 2D matrix.
+
 5. Write a code to add two 2D Matrix.
+
 6. Write a code to find the transpose of a 2D matrix.
+
 7. Write a code to perform arithmetic operations using a switch case to choose the operation.
+
 8. Write a code to find the square and cube of a number.
+
 9. Write a code to find factors of a number.
+
 10. Write a code to find the average of the elements in an array.
 
 MEDIUM
 
-1. Program to convert lowercase character to uppercase character using conditional operator. 
+1. Program to convert lowercase character to uppercase character using conditional operator.
+ 
 2. Program to convert any decimal number to octal and hexadecimal. 
+
 3. Program to check whether the input character is a vowel or not using switch case. 
+
 4. Program to calculate the length of a string using a user defined function. 
+
 5. Program to reverse a string using a user defined function. 
+
 6. Program to check if a given word is a palindrome or not. 
-   (Palindrome is a word or phrase which sounds/reads the same even if read from the back) 
+
+  --- (Palindrome is a word or phrase which sounds/reads the same even if read from the back)
+ 
 7. Program to print first 20 nos. of Fibonacci series. 
+
 8. Program to find the largest of 3 nos. using conditional operators. 
+
 9. Program to calculate the Armstrong Nos. b/w 1 and 500. 
-(A number is Armstrong if sum of cube of it's digits is same as the number itself) 
+
+  --- (A number is Armstrong if sum of cube of it's digits is same as the number itself) 
+
 10. Program to check if entered number is an Armstrong Number. 
 
 PRACTITIONER
 
 1. Program to reverse a number. 
+
 2. Program to exchange first and last digit of a number.
 
 3. Program to print any of the following patterns : 
 
-i) * 
-    
-   * 
-   **** 
-   * 
+i) *
+   **
+   ***
+   ****
+   *****
 
-ii) * 
-    **** 
-    * 
-    
-    * 
+ii) *****
+    ****
+    ***
+    **
+    *
 
-iii)     * 
-         
-       * 
+iii)     *
+        **
+       ***
       ****
-     * 
+     *****
 
 iv)  1 
      12 
@@ -64,12 +85,15 @@ v)  55555
     1
 
 4. Program to count no of vowels, consonant, digits and white spaces in a string. 
+
 5. Program to multiply 2 Matrices created dynamically. 
-6. Program to implement the STACK using linked list with following functions : 
-        Push an element in Stack  
-        Pop an element from Stack  
-        Display the elements in Stack  
+
+6. Program to implement a STACK using linked list with following functions : 
+      -  Push an element in Stack  
+      -  Pop an element from Stack  
+      -  Display the elements in Stack  
+
 7. Program to implement the STACK using arrays with following functions : 
-        Push an element in Stack  
-        Pop an element from Stack  
-        Display the elements in Stack
+      -  Push an element in Stack  
+      -  Pop an element from Stack  
+      -  Display the elements in Stack
