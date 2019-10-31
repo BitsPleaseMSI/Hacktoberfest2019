@@ -23,7 +23,6 @@ int i,j;
 		}
 	cout<<endl;
 	}
-
 	for(i=2;i<=5;i++)
 	{
 		for(j=5;j>1;j--)
